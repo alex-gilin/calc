@@ -1,6 +1,6 @@
 {
   "name": "vscode-dev-test-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Node.js TypeScript app for testing in vscode.dev",
   "main": "dist/index.js",
   "scripts": {
